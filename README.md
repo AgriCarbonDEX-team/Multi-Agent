@@ -17,6 +17,7 @@ Hệ thống bao gồm một **Manager Agent** điều phối, cùng với hai *
   > “AgriCarbonDEX hoạt động như thế nào?”  
   > “Tại sao AgriCarbonDEX được đề xuất?”
 - Kết hợp giữa **truy xuất thông tin** và **mô hình sinh câu trả lời** nhằm cung cấp kết quả chính xác, có trích dẫn.
+![alt text](image-1.png)
 
 ###  Search Agent
 - Xử lý các câu hỏi **ngoài phạm vi hệ thống**, ví dụ:
